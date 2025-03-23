@@ -23,7 +23,7 @@ Primeiro, faça o clone deste repositório para a sua máquina:
 
 ```bash
 git clone https://github.com/RayssaGM21/langchain-translate.git
-cd tradutor-ia
+cd langchain-translate
 ```
 
 ### Passo 2: Instale as Dependências
